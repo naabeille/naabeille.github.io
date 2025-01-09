@@ -21,7 +21,7 @@ author: Maude Auberson-Lavoie
 
 navbar-links:
   À propos: "aboutme"
-  #CV:
+# CV: 
 
 ################
 # --- Logo --- #
@@ -261,8 +261,7 @@ highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
 
-#TENTATIVE D'AJOUT ICI
-paginate_path: "/Nouvelles/page:num"
+# paginate_path: "/Nouvelles/page:num"
 
 kramdown:
   input: GFM
@@ -300,3 +299,4 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
