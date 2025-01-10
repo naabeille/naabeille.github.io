@@ -43,7 +43,9 @@ body {
   overflow-wrap: break-word;
   min-height: 100vh;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 10px;
 }
 body > main {
   flex: 1;
