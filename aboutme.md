@@ -1,7 +1,6 @@
 ---
 layout: page
 title: À propos de Naabeille
-subtitle: Why you'd want to go on a date with me
 ---
 
 Je suis une technicienne artistique spécialisée en interactivité. Je crée surtout en collaboration avec d'autres artistes. J'aime particulièrement la technologie Arduino. J'ai déjà travaillé avec les logiciels Unity, Processing, MadMapper et PureData. Je suis en apprentissage constant et je m'initie actuellement à p5.js et Unreal Engine.
