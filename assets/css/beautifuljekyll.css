@@ -43,9 +43,7 @@ body {
   overflow-wrap: break-word;
   min-height: 100vh;
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  gap: 10px 10px;
+  flex-direction: column;
 }
 body > main {
   flex: 1;
@@ -860,6 +858,11 @@ table tr td :first-child {
 table tr th :last-child,
 table tr td :last-child {
   margin-bottom: 0;
+}
+
+.photos{
+  display: flex;
+  gap: 10px 10px;
 }
 
 /* --- Code blocks --- */
