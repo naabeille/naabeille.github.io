@@ -863,7 +863,7 @@ table tr td :last-child {
 .photos{
   display: flex;
   align-items:flex-start;
-  flex-direction: column;
+  flex-direction: row;
   flex-wrap: wrap;
   gap: 10px 10px;
 }
