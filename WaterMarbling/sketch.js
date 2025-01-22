@@ -39,7 +39,7 @@ function draw() {
   let fin = createVector(mouseX, mouseY);
   fin.sub(debut);
   fin.normalize();
-  ligneDrag(fin, mouseX, mouseY, 5, 10);
+  ligneDrag(fin, mouseX, mouseY, 4, 5);
   
   background(240, 200, 200);
 

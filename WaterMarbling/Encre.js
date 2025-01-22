@@ -26,12 +26,15 @@ class Goutte {
   ligne(v, x, y, z, c) {
     let u = 1 /pow(2, 1/c);
     let b = createVector(x, y);
+    let rEffet = 60;
     for (let s of this.sommets){
-      let pb = p5.Vector.sub(s, b);
-      let n = v.copy().rotate(HALF_PI);
-      let d = abs(pb.dot(n));
-      let mag = z * pow(u, d);
-      s.add(v.copy().mult(mag));
+      if ( s.x <= x + rEffet && s.x >= x - rEffet && s.y <= y + rEffet && s.y > y - rEffet ){
+        let pb = p5.Vector.sub(s, b);
+        let n = v.copy().rotate(HALF_PI);
+        let d = abs(pb.dot(n));
+        let mag = z * pow(u, d);
+        s.add(v.copy().mult(mag));
+      }
     }
   }
   
