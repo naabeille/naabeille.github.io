@@ -5,7 +5,7 @@ let gouttes = [];
 let debut;
 
 function setup() {
-  createCanvas(600, 300);
+  createCanvas(windowWidth, windowHeight/2);
   for (let i = 0; i < 15; i++){
       ajoutEncre(width/2, height/2, width/4 - random(10)*i);
   }
