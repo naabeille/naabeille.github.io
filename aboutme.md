@@ -1,9 +1,9 @@
 ---
 layout: page
-title: À propos de Naabeille
+title: À propos de Maude
 ---
 
-Je suis une technicienne artistique spécialisée en interactivité. Je crée surtout en collaboration avec d'autres artistes. J'aime particulièrement la technologie Arduino. J'ai déjà travaillé avec les logiciels Unity, Processing, MadMapper et PureData. Je suis en apprentissage constant et je m'initie actuellement à p5.js et Unreal Engine.
+Je suis une technicienne artistique qui crée surtout en collaboration avec d'autres artistes. J'aime particulièrement l'interactivité et la technologie Arduino. J'ai déjà travaillé avec les logiciels Unity, TouchDesigner, Processing, MadMapper et PureData. Je suis en apprentissage constant et je m'initie actuellement à la programmation de shaders en GLSL et à Unreal Engine.
 
 Je travaille aussi comme Scripte sur les plateaux de tournages en cinéma et en télévision de fiction, où j'assure la continuité. J'ai travaillé entre autres sur _Le temps des framboises saison 1_, _Aller simple saison 2_, _Jour de chasse_ et _Veille sur moi_.
 
