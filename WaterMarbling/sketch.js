@@ -27,6 +27,10 @@ function mousePressed() {
   ajoutEncre(mouseX, mouseY, 50)
 }
 
+function touchStarted() {
+  ajoutEncre(mouseX, mouseY, 50)
+}
+
 function ajoutEncre(x, y, r){
   let goutte = new Goutte(x, y, r);
   for (let autre of gouttes){
