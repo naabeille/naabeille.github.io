@@ -52,6 +52,12 @@ p {
   line-height: 1.5;
   margin: 1.875rem 0;
 }
+p2 {
+  color: var(--page-col);
+  background-color: var(--text-col);
+  line-height: 1.5;
+  margin: 1.875rem 0;
+}
 h1,h2,h3,h4,h5,h6 {
   font-family: var(--header-font);
   font-weight: 800;
