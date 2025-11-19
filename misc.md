@@ -6,7 +6,7 @@ subtitle: Expérimentations diverses
 
 ## Boîte lumineuse
 <div class="videosVerticales">
-    <iframe class="adaptatif" src="https://youtube.com/embed/ndZPpyY-jws"> </iframe>
+    <iframe class="adaptatif" src="https://youtube.com/embed/ndZPpyY-jws?autoplay=1"> </iframe>
 </div>
 Preuve de concept pour un capteur de présence "invisible" qui contrôle des LEDs.
 
