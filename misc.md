@@ -4,6 +4,12 @@ title: Misc
 subtitle: Expérimentations diverses
 ---
 
+## Boîte lumineuse
+<div class="videosVerticales">
+    <iframe class="adaptatif" src="https://youtube.com/embed/ndZPpyY-jws"> </iframe>
+</div>
+Preuve de concept pour un capteur de présence "invisible" qui contrôle des LEDs.
+
 ## Bubulles
 [//]: <> "![Vidéo: écran géant tactile avec des cercles qui se déplacent, quand un tape sur un cercle il se multiplie.](https://youtube.com/embed/MBPrIr2RwK8)"
 
