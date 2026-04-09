@@ -4,6 +4,13 @@ title: Misc
 subtitle: Expérimentations diverses
 ---
 
+## VJing
+<div class="videosHorizontales"> 
+    <iframe class="adaptatif" src="https://youtu.be/OqjI4dAulVg"> </iframe>
+</div>
+Extrait de VJing dans le cadre du cours "Introduction au VJing" donné par la SAT. Utilisation de _Resolume Arena_.
+Vidéo par Diane Auberson-Lavoie 
+
 ## Boîte lumineuse
 <div class="videosVerticales">
     <iframe class="adaptatif" src="https://youtube.com/embed/ndZPpyY-jws?autoplay=1"> </iframe>
