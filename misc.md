@@ -6,7 +6,7 @@ subtitle: Expérimentations diverses
 
 ## VJing
 <div class="videosHorizontales"> 
-    <iframe class="adaptatif" src="https://youtube.com/embed/OqjI4dAulVg"> </iframe>
+    <iframe class="adaptatif" src="https://www.youtube.com/embed/OqjI4dAulVg?si=mZXhbiiTg40s3tQR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 Extrait de VJing dans le cadre du cours "Introduction au VJing" donné par la SAT. Utilisation de _Resolume Arena_.
 Vidéo par Diane Auberson-Lavoie 
