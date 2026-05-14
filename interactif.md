@@ -33,7 +33,7 @@ subtitle: Installations et expériences
     Projet de <b>Lucion</b><br>
     <i>Ma contribution: installation d'éclairages, adaptation de contenu TouchDesigner et support technique général.</i></p>
 
-    <h2>Eco le héros du recyclage</h2>
+<h2>Eco le héros du recyclage</h2>
 <div class="photos">
     <img src="/assets/img/eco.jpg" alt="Une installation en bois de palette avec des écrans intégrés.">
 </div>
