@@ -32,6 +32,11 @@ Preuve de concept pour un capteur de présence "invisible" qui contrôle des LED
 </div>
 Expérimentation sur écran tactile géant créée avec Processing et PureData.
 
+## Engrenages jouets
+<div class="videosHorizontales"> 
+    <iframe class="adaptatif" src="https://youtu.be/IwiWyaGpmXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+Un jouet aimanté pour occuper les enfants pendant que les parents cuisinent! Engrenages modélisés et imprimés en 3D. Les aimants sont complètements encapsulés dans le plastique, ce qui rend le jouet sécuritaire.
 
 ## Fleur 1
 <div class="videosVerticales">
