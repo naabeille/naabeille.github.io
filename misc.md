@@ -3,6 +3,13 @@ layout: page
 title: Misc
 subtitle: Expérimentations diverses
 ---
+## Interaction collectivre avec plancher haptique
+<div class="videosVerticales">
+    <iframe class="adaptatif" src="https://youtube.com/shorts/rO63kGr_4A0?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+</div>
+Expérimentation avec un plancher haptique à la Société des Arts Technologiques. Les vibrations du plancher, le son et l'éclairage s'adaptent en fonction du nombre de parsonnes debout, assises et couchées. 
+Ce projet a été réalisé en équipe avec Günes-Hélène Isitan lors du cours "Techniques d'interaction collective" à la SAT avec l'aide de nos professeurs, Vincent Brault et Manuel Bolduc. 
+Vidéo par Günes-Hélène Isitan.
 
 ## VJing
 <div class="videosHorizontales"> 
