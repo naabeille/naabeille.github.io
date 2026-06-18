@@ -28,13 +28,13 @@ Preuve de concept pour un capteur de présence "invisible" qui contrôle des LED
 [//]: <> "![Vidéo: écran géant tactile avec des cercles qui se déplacent, quand un tape sur un cercle il se multiplie.](https://youtube.com/embed/MBPrIr2RwK8)"
 
 <div class="videosHorizontales"> 
-    <iframe class="adaptatif" src="https://youtube.com/embed/MBPrIr2RwK8"> </iframe>
+    <iframe class="adaptatif" src="https://youtube.com/embed/MBPrIr2RwK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 Expérimentation sur écran tactile géant créée avec Processing et PureData.
 
 ## Engrenages jouets
 <div class="videosHorizontales"> 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/IwiWyaGpmXM?si=NTq-cvMsH6uAI2q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe class="adaptatif" src="https://www.youtube.com/embed/IwiWyaGpmXM?si=NTq-cvMsH6uAI2q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 Un jouet aimanté pour occuper les enfants pendant que les parents cuisinent! Engrenages modélisés et imprimés en 3D. Les aimants sont complètements encapsulés dans le plastique, ce qui rend le jouet sécuritaire.
 
