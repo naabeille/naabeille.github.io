@@ -36,6 +36,9 @@ Expérimentation sur écran tactile géant créée avec Processing et PureData.
 <div class="videosHorizontales"> 
     <iframe class="adaptatif" src="https://www.youtube.com/embed/IwiWyaGpmXM?si=NTq-cvMsH6uAI2q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+<div class="videosVerticales"> 
+    <iframe class="adaptatif" src="https://youtube.com/ember/gc91Cr3neSs?autoplay=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 Un jouet aimanté pour occuper les enfants pendant que les parents cuisinent! Engrenages modélisés et imprimés en 3D. Les aimants sont complètements encapsulés dans le plastique, ce qui rend le jouet sécuritaire.
 
 ## Fleur 1
