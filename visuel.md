@@ -7,7 +7,7 @@ subtitle: Vidéo, lumière, photo et plus!
 
 <h2>Court métrage immersif fulldôme</h2>
 <div class="videosHorizontales"> 
-    <iframe class="adaptatif" src="https://www.youtube.com/embed/maAyOD7YadY?si=C3n2MTqe8KHR5Q0X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+    <iframe class="adaptatif" src="https://www.youtube.com/embed/avgcc0Ygq0Y?si=UgX3ORRBsJ35f8p0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 </div>
 <p> Court métrage immersif qui transporte le spectateur à la découverte d'un monde inspiré de Minecraft. 
     Ce court métrage a été créé dans le cadre du cours "Immersive visual creation workshop" à la 
